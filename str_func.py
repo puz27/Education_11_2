@@ -14,3 +14,12 @@ def big_letters2(letters: str) -> str:
     :return: converted word
     """
     return letters.title()
+
+
+def big_letters3(letters: str) -> str:
+    """
+    Convert first letter from to big
+    :param word we need to convert
+    :return: converted word
+    """
+    return letters.title()
